@@ -1,0 +1,11 @@
+version: '2'
+services:
+  web:
+    build: ./src
+    container_name: supernoder
+    entrypoint: python -u src/server.py
+    ports:
+     - 8080:8080
+    volumes:
+     - .:/src
+    restart: always
