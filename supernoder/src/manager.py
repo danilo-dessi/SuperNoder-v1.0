@@ -184,6 +184,7 @@ class Manager:
 			exit(1)
 					
 	def __compile_node2motifs(self):
+		self.node2motifs = {}
 		for motif in self.motifs:
 			for n in motif:
 				if n not in self.node2motifs:
