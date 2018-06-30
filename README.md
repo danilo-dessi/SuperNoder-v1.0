@@ -58,6 +58,24 @@ In the series of output nodes, each supernode has as label the concatenation of 
 
 An output example
 
+Network after 1 iteration(s)
+
+NODES
+
+4 A
+
+5 A
+
+6 A
+
+7 A-B-C &emsp;[1 - 2 - 3] &emsp;#supernode
+
+EDGES
+
+5 7
+
+6 7 
+
 # Data
 The folder networks contains the nodes and their labels of our mappings on taxonomies and the edges of experimented networks. The original networks are available in:
 * food-web Florida bay: https://snap.stanford.edu/data/Florida-bay.html
