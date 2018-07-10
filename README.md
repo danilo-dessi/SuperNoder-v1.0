@@ -3,7 +3,7 @@ This repository contains the SuperNoder sources, the main outcome of the work: S
 
 Authors: They have been anonymized for the review process. 
 
-SuperNoder is a python developed tool that enables the simplification of networks by means of collapsing of frequent motifs. It can be used on a own pc or by its web interface available at: inserire link
+SuperNoder is a python developed tool that enables the simplification of networks by means of collapsing of frequent motifs. It can be used on a own pc or by its web interface available at: http://glab.sc.unica.it:8080/
 
 To execute SuperNoder on your pc, Docker (download: https://www.docker.com/what-docker#/container-platform) must be previously installed.
 
