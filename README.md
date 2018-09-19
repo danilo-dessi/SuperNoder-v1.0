@@ -1,9 +1,9 @@
 # SuperNoder1.0
 This repository contains the SuperNoder sources, the main outcome of the work: SuperNoder: a tool to discover over-represented modular structures in networks.
 
-Authors: They have been anonymized for the review process. 
+Authors: Danilo Dessì, Jacopo Cirrone, Diego Reforgiato Recupero and Dennis Shasha. 
 
-SuperNoder is a python developed tool that enables the simplification of networks by means of collapsing of frequent motifs. It can be used on a own pc or by its web interface available at: http://glab.sc.unica.it:8080/
+SuperNoder is a python developed tool that enables the simplification of networks by means of collapsing of frequent motifs. It can be used on a own pc or by its web interface available at: http://glab.sc.unica.it/supernoder/
 
 To execute SuperNoder on your pc, Docker (download: https://www.docker.com/what-docker#/container-platform) must be previously installed.
 
@@ -13,10 +13,9 @@ To run SuperNoder the user must perform in the supernoder/ directory:
 
 SuperNoder will be accessible at http://localhost:8080.
 
-If you use SuperNoder in your work, please cite the paper: [1] [authors], SuperNoder: a tool to discover over-represented modular structures in networks. [journal-info][year]
+If you use SuperNoder in your work, please cite the paper: Dessì, D., Cirrone, J., Recupero, D. R., & Shasha, D. (2018). SuperNoder: a tool to discover over-represented modular structures in networks. BMC bioinformatics, 19(1), 318.
 
-For more info please contact: It will be available after publication.
-
+For more info please contact: danilo_dessi@unica.it
 # Input 
 The tool requires two series of data: nodes and edges. 
 
@@ -83,4 +82,4 @@ The folder networks contains the nodes and their labels of our mappings on taxon
 * PPI arabidopsis: http://interactome.dfci.harvard.edu/A_thaliana/index.php?page=download
 
 # Acknowledgements
-They will be available after publication.
+Danilo Dessì acknowledges Sardinia Regional Government for the financial support of his PhD scholarship (P.O.R. Sardegna F.S.E. 2014-2020. Danilo Dessì would also like to extend his thanks to the University of Cagliari for sponsoring his stay at the New York University with a GlobusDoc grant awarded in fall 2017. Dennis Shasha and Jacopo Cirrone gratefully acknowledge support from the U.S. National Science Foundation under grants MCB-1412232, IOS-1339362, MCB-1355462, MCB-1158273, IOS-0922738, and MCB-0929339.
