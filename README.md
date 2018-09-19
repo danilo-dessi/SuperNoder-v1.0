@@ -1,5 +1,5 @@
 # SuperNoder1.0
-This repository contains the SuperNoder sources, the main outcome of the work: SuperNoder: a tool to discover over-represented modular structures in networks.
+This repository contains the SuperNoder sources, the main outcome of the work: SuperNoder: a tool to discover over-represented modular structures in networks (https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2350-8).
 
 Authors: Danilo Dessì, Jacopo Cirrone, Diego Reforgiato Recupero and Dennis Shasha. 
 
